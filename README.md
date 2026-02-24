@@ -1,5 +1,6 @@
 # Completely-AI-Generated-OS or "myos"
-A completely AI generated text-based operating system.
+You've seen other people make operating systems with AI, why not I do it?
+This is a completely AI generated text-based operating system that you can try out!.
 
 # What AI was used?
 Google Gemini AI on the "Fast" setting.
