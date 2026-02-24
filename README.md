@@ -1,2 +1,12 @@
-# Completely-AI-Generated-OS
-A completely AI generated text-based operating system
+# Completely-AI-Generated-OS or "myos"
+A completely AI generated text-based operating system.
+
+# What AI was used?
+Google Gemini AI on the "Fast" setting.
+
+# How did you build it?
+I used Windows Subsystem for Linux to build all of this code into one standalone ISO file.
+
+# Is this OS useful?
+Absolutely not. This OS is not useful for work, content creation and other purposes.
+This OS is purely to test the capabilities of artificial intelligence's code writing.
