@@ -10,3 +10,13 @@ I used Windows Subsystem for Linux to build all of this code into one standalone
 # Is this OS useful?
 Absolutely not. This OS is not useful for work, content creation and other purposes.
 This OS is purely to test the capabilities of artificial intelligence's code writing.
+
+# Features
+- VGA text mode output
+- Interrupt-driven keyboard input
+- Mini command shell
+- Text editor
+- RAM-backed storage
+- Parallel port (LPT1) output
+- Custom color backgrounds
+- Software shutdown support
