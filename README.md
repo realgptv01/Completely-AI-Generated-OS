@@ -11,6 +11,9 @@ I used Windows Subsystem for Linux to build all of this code into one standalone
 Absolutely not. This OS is not useful for work, content creation and other purposes.
 This OS is purely to test the capabilities of artificial intelligence's code writing.
 
+# Does it need human assistance?
+Yes, as a large language model does not possess the capability of compiling code into a bootable disk file.
+
 # Features
 - VGA text mode output
 - Interrupt-driven keyboard input
